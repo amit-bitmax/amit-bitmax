@@ -1,211 +1,211 @@
+<!-- Banner -->
 <div align="center">
-  
-  # Hi 👋, I'm Amit Kumar
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2088FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Open+Source+Contributor;Problem+Solver" alt="Typing SVG" />
-  </a>
-
-  <p>
-    <a href="https://github.com/amit-bitmax">
-      <img src="https://komarev.com/ghpvc/?username=amit-bitmax&label=Profile%20Views&color=0e75b6&style=flat" alt="oview" />
-    </a>
-  </p>
-
-  <p>
-    <strong>Full Stack Developer from India 🇮🇳 | MERN • SQL • Scalable Web Apps</strong>
-  </p>
-
-  <p>
-    I build performant, user-focused web applications with clean UI, solid backend logic, and scalable architecture. Passionate about turning ideas into real-world products.
-  </p>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=280&section=header&text=AMIT%20KUMAR&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Digital%20Craftsman&descAlignY=65&descAlign=50&descSize=25" alt="Header" width="100%"/>
 </div>
 
-<br />
-
-## 🚀 About Me
-
-- 🔭 I’m currently working on **Advanced MERN Stack Projects**
-- 🌱 I’m currently learning **Next.js, Docker, and Cloud Architecture**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **JavaScript, React, Node.js, and MongoDB**
-- ⚡ Fun fact: **I can center a div without Googling it!**
-
-<br />
-
-## 🛠️ Tech Stack
-
-<table align="center">
+<!-- Introduction Section -->
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="95%">
   <tr>
-    <td align="center" width="96">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>JavaScript
+    <td width="65%" valign="center">
+      <div align="left">
+        <h1 style="color: #8A2BE2; margin-bottom: 10px;">👨‍💻 About Me</h1>
+        <p style="font-size: 16px; line-height: 1.6; color: #333;">
+          Passionate Full Stack Developer specializing in scalable web applications. 
+          I architect and build robust systems using modern JavaScript technologies, 
+          with expertise in MERN stack, cloud infrastructure, and performance optimization.
+          Currently focused on microservices architecture and AI integration.
+        </p>
+        
+        <div style="margin: 20px 0;">
+          <a href="https://linkedin.com/in/yourprofile" target="_blank">
+            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+          </a>
+          <a href="https://twitter.com/yourprofile" target="_blank">
+            <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+          </a>
+          <a href="https://portfolio.you.com" target="_blank">
+            <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+          </a>
+          <a href="mailto:youremail@example.com">
+            <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+          </a>
+        </div>
+      </div>
     </td>
-    <td align="center" width="96">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-      </a>
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-      </a>
-      <br>Next.js
-    </td>
-    <td align="center" width="96">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-      </a>
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
-      </a>
-      <br>Express
-    </td>
-    <td align="center" width="96">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-      </a>
-      <br>MongoDB
-    </td>
-    <td align="center" width="96">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-      </a>
-      <br>MySQL
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      </a>
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
-      </a>
-      <br>CSS3
-    </td>
-    <td align="center" width="96">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-      </a>
-      <br>Tailwind
-    </td>
-    <td align="center" width="96">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux" />
-      </a>
-      <br>Redux
-    </td>
-    <td align="center" width="96">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-      </a>
-      <br>Postman
-    </td>
-    <td align="center" width="96">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-      </a>
-      <br>VS Code
+    <td width="35%" valign="center" align="center">
+      <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="85%" alt="Coding Animation" style="border-radius: 10px;"/> 
     </td>
   </tr>
 </table>
 
-<br />
+<br/><br/>
 
-## 📊 GitHub Stats
+<!-- Tech Stack -->
+<div align="center">
+  <h2 style="color: #8A2BE2; border-bottom: 2px solid #8A2BE2; padding-bottom: 10px; display: inline-block;">🛠️ Tech Stack</h2>
+</div>
+<br/>
 
 <div align="center">
-
-  <a href="https://github.com/amit-bitmax">
-    <img src="https://github-readme-stats.vercel.app/api?username=amit-bitmax&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_border=true" height="180" alt="GitHub Stats" />
-  </a>
-  
-  <a href="https://github.com/amit-bitmax">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit-bitmax&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_border=true" height="180" alt="Top Languages" />
-  </a>
-
+  <table align="center">
+    <tr>
+      <td align="center" width="33%">
+        <h3>Frontend</h3>
+        <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,redux,tailwind,html,css,sass&theme=dark&perline=4" alt="Frontend Tech" />
+      </td>
+      <td align="center" width="33%">
+        <h3>Backend</h3>
+        <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,mongodb,postgresql,redis,graphql&theme=dark&perline=4" alt="Backend Tech" />
+      </td>
+      <td align="center" width="33%">
+        <h3>DevOps & Tools</h3>
+        <img src="https://skillicons.dev/icons?i=docker,aws,git,githubactions,nginx,jenkins,vscode,figma&theme=dark&perline=4" alt="DevOps Tech" />
+      </td>
+    </tr>
+  </table>
 </div>
 
-<br />
+<br/><br/>
+
+<!-- GitHub Stats -->
+<div align="center">
+  <h2 style="color: #8A2BE2; border-bottom: 2px solid #8A2BE2; padding-bottom: 10px; display: inline-block;">📊 GitHub Analytics</h2>
+</div>
+<br/>
+
+<table align="center" width="95%">
+  <tr>
+    <td align="center" width="25%">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amit-bitmax&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=8A2BE2&icon_color=8A2BE2" alt="GitHub Stats" />
+    </td>
+    <td align="center" width="25%">
+      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=amit-bitmax&theme=radical&hide_border=true&background=0d1117&stroke=8A2BE2&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2" alt="Streak Stats" />
+    </td>
+    <td align="center" width="25%">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit-bitmax&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=8A2BE2&text_color=ffffff&langs_count=6" alt="Top Languages" />
+    </td>
+    <td align="center" width="25%">
+      <a href="https://app.daily.dev/yourprofile">
+        <img height="180em" src="https://github.com/amit-bitmax/amit-bitmax/blob/main/devcard.svg" width="100%" alt="Dev Card"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br/><br/>
+
+<!-- Featured Projects -->
+<div align="center">
+  <h2 style="color: #8A2BE2; border-bottom: 2px solid #8A2BE2; padding-bottom: 10px; display: inline-block;">🚀 Featured Projects</h2>
+</div>
+<br/>
+
+<table align="center" width="95%">
+  <tr>
+    <td width="50%">
+      <div align="center">
+        <a href="https://github.com/amit-bitmax/project-1">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amit-bitmax&repo=project-1&theme=radical&bg_color=0d1117&title_color=8A2BE2&text_color=ffffff&hide_border=true" alt="Project 1" />
+        </a>
+      </div>
+    </td>
+    <td width="50%">
+      <div align="center">
+        <a href="https://github.com/amit-bitmax/project-2">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amit-bitmax&repo=project-2&theme=radical&bg_color=0d1117&title_color=8A2BE2&text_color=ffffff&hide_border=true" alt="Project 2" />
+        </a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <div align="center">
+        <a href="https://github.com/amit-bitmax/project-3">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amit-bitmax&repo=project-3&theme=radical&bg_color=0d1117&title_color=8A2BE2&text_color=ffffff&hide_border=true" alt="Project 3" />
+        </a>
+      </div>
+    </td>
+    <td width="50%">
+      <div align="center">
+        <a href="https://github.com/amit-bitmax/project-4">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amit-bitmax&repo=project-4&theme=radical&bg_color=0d1117&title_color=8A2BE2&text_color=ffffff&hide_border=true" alt="Project 4" />
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<br/><br/>
+
+<!-- Activity Graph -->
+<div align="center">
+  <h2 style="color: #8A2BE2; border-bottom: 2px solid #8A2BE2; padding-bottom: 10px; display: inline-block;">📈 Contribution Graph</h2>
+</div>
+<br/>
 
 <div align="center">
-  <a href="https://github.com/amit-bitmax">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=amit-bitmax&theme=dark&background=151515&border=151515&stroke=151515&ring=79ff97&fire=79ff97&currStreakNum=fff&currStreakLabel=79ff97&sideNums=fff&sideLabels=fff&dates=fff" alt="Streak Stats" />
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=amit-bitmax&bg_color=0d1117&color=8A2BE2&line=8A2BE2&point=ffffff&area=true&hide_border=true&custom_title=My%20Contribution%20Graph" width="95%" alt="Activity Graph" />
   </a>
 </div>
 
-<br />
+<br/><br/>
 
-## 🏆 GitHub Trophies
+<!-- Trophies -->
+<div align="center">
+  <h2 style="color: #8A2BE2; border-bottom: 2px solid #8A2BE2; padding-bottom: 10px; display: inline-block;">🏆 GitHub Trophies</h2>
+</div>
+<br/>
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=amit-bitmax&theme=flat&no-frame=true&no-bg=true&margin-w=4" alt="amit-bitmax" />
+    <img src="https://github-profile-trophy.vercel.app/?username=amit-bitmax&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=2&column=4" width="95%" alt="amit-bitmax" />
   </a>
 </div>
 
-<br />
+<br/><br/>
 
-## 📂 Featured Projects
-
-| Project | Description | Stats |
-| :--- | :--- | :--- |
-| **[Project Name 1](https://github.com/amit-bitmax/repository-name)** | Brief description of the project and its key features. | ![Stars](https://img.shields.io/github/stars/amit-bitmax/repository-name?style=social) <br> ![Forks](https://img.shields.io/github/forks/amit-bitmax/repository-name?style=social) |
-| **[Project Name 2](https://github.com/amit-bitmax/repository-name)** | Brief description of the project and its key features. | ![Stars](https://img.shields.io/github/stars/amit-bitmax/repository-name?style=social) <br> ![Forks](https://img.shields.io/github/forks/amit-bitmax/repository-name?style=social) |
-
-<br />
-
-## 🤝 Connect with Me
-
-<div align="center"> 
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://linkedin.com/in/yourusername">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/yourusername">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://instagram.com/yourusername">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</div>
-
-<br />
-
----
-
+<!-- Fun Elements -->
 <div align="center">
-  <p>Visitor Count</p>
+  <h2 style="color: #8A2BE2; border-bottom: 2px solid #8A2BE2; padding-bottom: 10px; display: inline-block;">🎮 Fun Stats</h2>
+</div>
+<br/>
+
+<table align="center" width="95%">
+  <tr>
+    <td align="center" width="50%">
+      <div align="center">
+        <img src="https://github.com/amit-bitmax/amit-bitmax/blob/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%" />
+      </div>
+    </td>
+    <td align="center" width="50%">
+      <div align="center">
+        <img src="https://raw.githubusercontent.com/amit-bitmax/amit-bitmax/main/images/stat.svg" alt="Coding Time" width="100%" />
+        <p><em>Total Coding Hours This Month</em></p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<br/><br/>
+
+<!-- Visitor Counter -->
+<div align="center">
+  <h2 style="color: #8A2BE2;">👁️ Profile Views</h2>
+  <img src="https://komarev.com/ghpvc/?username=amit-bitmax&label=Profile%20Views&color=8A2BE2&style=for-the-badge" alt="Profile Views" />
+  <br/><br/>
   <img src="https://profile-counter.glitch.me/amit-bitmax/count.svg" alt="Visitor Count" />
+</div>
+
+<br/>
+
+<!-- Footer -->
+<div align="center" style="background: linear-gradient(90deg, #8A2BE2, #4B0082); padding: 20px; border-radius: 10px; margin-top: 30px;">
+  <p style="color: white; font-size: 18px; margin: 0;">
+    "Code is like humor. When you have to explain it, it's bad." - Cory House
+  </p>
+  <p style="color: white; margin-top: 10px;">
+    📧 <a href="mailto:amitbitmax09@gmail.com" style="color: white; text-decoration: underline;">amitbitmax09@gmail.com</a> | 
+    🔗 <a href="https://yourportfolio.com" style="color: white; text-decoration: underline;">Portfolio</a>
+  </p>
 </div>
