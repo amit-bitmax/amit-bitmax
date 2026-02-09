@@ -1,109 +1,191 @@
-<!-- Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=300&section=header&text=HELLO%20WORLD&fontSize=90&animation=fadeIn&fontAlignY=38&desc=WELCOME%20TO%20MY%20PROFILE&descAlignY=51&descAlign=62" alt="Header" width="100%"/>
-</div>
-
-<!-- Introduction Section -->
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="60%" valign="center">
-      <h1>🔗 👓 I'M AMIT!</h1>
-      <p><em>Digital Craftsman (Developer / Programmer)</em></p>
-      <p>
-        I am a Full Stack Developer and Open Source Enthusiast with a huge love for JavaScript, React.js, Node.js, MERN Stack, and Scalable Architecture.
-      </p>
-      <ul>
-        <li>🚀 Student of life :)</li>
-        <li>🌱 I’m currently learning <strong>Next.js & Cloud Computing</strong>.</li>
-        <li>👨‍💻 Trusted member and Contributor to Open Source.</li>
-        <li>✍️ I write technical blogs on Hashnode/Dev.to.</li>
-        <li>❤️ Passionate about building solving real-world problems.</li>
-      </ul>
-      <p>
-        <img src="https://komarev.com/ghpvc/?username=amit-bitmax&label=PROFILE%20VIEWS&color=8A2BE2&style=for-the-badge" alt="Profile Views" />
-      </p>
-    </td>
-    <td width="40%" valign="center" align="center">
-      <img src="https://media.giphy.com/media/dummy/giphy.gif" data-canonical-src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="100%" alt="Welcome" /> 
-      <!-- Note: Using a standard 'Hi' gif as placeholder for the 'Owl' since the specific asset isn't public. The user can replace this URL. -->
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- Tech Stack -->
-<h3 align="center">TECH STACK & LATEST BLOGS</h3>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,mysql,html,css,tailwind,redux,git,docker,aws,vscode,figma&perline=6" alt="Tech Stack" />
-</div>
-
-<br/>
-
-<!-- Trophies -->
-<h3 align="center">🏆 GITHUB TROPHIES 🏆</h3>
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=amit-bitmax&theme=flat&no-frame=true&no-bg=true&margin-w=4" alt="amit-bitmax" />
+  
+  # Hi 👋, I'm Amit Kumar
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2088FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Open+Source+Contributor;Problem+Solver" alt="Typing SVG" />
   </a>
+
+  <p>
+    <a href="https://github.com/amit-bitmax">
+      <img src="https://komarev.com/ghpvc/?username=amit-bitmax&label=Profile%20Views&color=0e75b6&style=flat" alt="oview" />
+    </a>
+  </p>
+
+  <p>
+    <strong>Full Stack Developer from India 🇮🇳 | MERN • SQL • Scalable Web Apps</strong>
+  </p>
+
+  <p>
+    I build performant, user-focused web applications with clean UI, solid backend logic, and scalable architecture. Passionate about turning ideas into real-world products.
+  </p>
+
 </div>
 
-<br/>
+<br />
 
-<!-- Stats Grid (2x2) -->
-<h3 align="center">📊 GITHUB STATS 📊</h3>
+## 🚀 About Me
+
+- 🔭 I’m currently working on **Advanced MERN Stack Projects**
+- 🌱 I’m currently learning **Next.js, Docker, and Cloud Architecture**
+- 👯 I’m looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **JavaScript, React, Node.js, and MongoDB**
+- ⚡ Fun fact: **I can center a div without Googling it!**
+
+<br />
+
+## 🛠️ Tech Stack
+
 <table align="center">
   <tr>
-    <td align="center" width="50%">
-      <strong>GitHub Stats</strong><br/>
-      <a href="https://github.com/amit-bitmax">
-        <img src="https://github-readme-stats.vercel.app/api?username=amit-bitmax&show_icons=true&theme=radical&hide_border=true&count_private=true" width="100%" alt="GitHub Stats" />
+    <td align="center" width="96">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
       </a>
+      <br>JavaScript
     </td>
-    <td align="center" width="50%">
-      <strong>Streak Stats</strong><br/>
-      <a href="https://github.com/amit-bitmax">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=amit-bitmax&theme=radical&hide_border=true" width="100%" alt="Streak Stats" />
+    <td align="center" width="96">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
       </a>
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+      </a>
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+      </a>
+      <br>Next.js
+    </td>
+    <td align="center" width="96">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+      </a>
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+      </a>
+      <br>Express
+    </td>
+    <td align="center" width="96">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      </a>
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+      </a>
+      <br>MySQL
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%">
-      <strong>Latest Project</strong><br/>
-      <!-- Replace 'repository-name' with your actual PINNED repo name -->
-      <a href="https://github.com/amit-bitmax/repository-name">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=amit-bitmax&repo=amit-bitmax&theme=radical&hide_border=true" width="100%" alt="Latest Project" />
+    <td align="center" width="96">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
       </a>
+      <br>HTML5
     </td>
-    <td align="center" width="50%">
-      <strong>Top Languages</strong><br/>
-      <a href="https://github.com/amit-bitmax">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit-bitmax&layout=compact&theme=radical&hide_border=true" width="100%" alt="Top Languages" />
+    <td align="center" width="96">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
       </a>
+      <br>CSS3
+    </td>
+    <td align="center" width="96">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+      </a>
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux" />
+      </a>
+      <br>Redux
+    </td>
+    <td align="center" width="96">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+      </a>
+      <br>Postman
+    </td>
+    <td align="center" width="96">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+      </a>
+      <br>VS Code
     </td>
   </tr>
 </table>
 
-<br/>
+<br />
 
-<!-- Contribution Graph (Line) -->
-<h3 align="center">📈 CONTRIBUTION GRAPH 📈</h3>
+## 📊 GitHub Stats
+
 <div align="center">
-   <a href="https://github.com/amit-bitmax">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=amit-bitmax&bg_color=141321&color=8A2BE2&line=8A2BE2&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+
+  <a href="https://github.com/amit-bitmax">
+    <img src="https://github-readme-stats.vercel.app/api?username=amit-bitmax&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_border=true" height="180" alt="GitHub Stats" />
+  </a>
+  
+  <a href="https://github.com/amit-bitmax">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit-bitmax&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_border=true" height="180" alt="Top Languages" />
+  </a>
+
+</div>
+
+<br />
+
+<div align="center">
+  <a href="https://github.com/amit-bitmax">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=amit-bitmax&theme=dark&background=151515&border=151515&stroke=151515&ring=79ff97&fire=79ff97&currStreakNum=fff&currStreakLabel=79ff97&sideNums=fff&sideLabels=fff&dates=fff" alt="Streak Stats" />
   </a>
 </div>
 
-<br/>
+<br />
 
-<!-- Snake Animation -->
-<div align="center">
-  <img src="https://github.com/amit-bitmax/amit-bitmax/blob/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%" />
+## 🤝 Connect with Me
+
+<div align="center"> 
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://linkedin.com/in/yourusername">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/yourusername">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://instagram.com/yourusername">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 </div>
 
-<br/>
+<br />
 
-<!-- Footer -->
+---
+
 <div align="center">
   <p>Visitor Count</p>
   <img src="https://profile-counter.glitch.me/amit-bitmax/count.svg" alt="Visitor Count" />
