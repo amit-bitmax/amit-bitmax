@@ -36,26 +36,34 @@
 
 ## 🛠️ Tech Stack
 
-### 🎨 Frontend
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,redux" />
-  </a>
-</div>
-
-### 💾 Backend
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
-  </a>
-</div>
-
-### 🛠️ DevOps & Tools
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,postman,vscode" />
-  </a>
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <h3>🎨 Frontend</h3>
+      <div align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,redux&perline=4" />
+        </a>
+      </div>
+    </td>
+    <td align="center" width="33%">
+      <h3>💾 Backend</h3>
+      <div align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&perline=4" />
+        </a>
+      </div>
+    </td>
+    <td align="center" width="33%">
+      <h3>🛠️ DevOps & Tools</h3>
+      <div align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=git,docker,postman,vscode&perline=4" />
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
 
 <br />
 
