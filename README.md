@@ -88,9 +88,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=amit-bitmax&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit-bitmax&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="48%" />
 </div>
-
 <br/>
-
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=amit-bitmax&theme=dark&hide_border=true" alt="GitHub Streak" width="50%" />
 </div>
