@@ -23,7 +23,7 @@
 - 🔭 I’m currently building performant, user-focused web applications with clean UI and solid backend logic.
 - 🌱 I’m constantly exploring advanced concepts in **System Design** and **Scalable Architectures**.
 - 👯 I’m open to collaborating on **Open Source Projects** and innovative web solutions.
-- 💬 Ask me about **React, Next.js, Node.js, and MongoDB**.
+- 💬 Ask me about **React, Next.js, Node.js, MySQL, and MongoDB**.
 - 📫 How to reach me: **amitkumar84946@gmail.com**
 - ⚡ Fun fact: I love turning complex ideas into elegant, real-world products!
 
